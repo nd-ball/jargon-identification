@@ -1,0 +1,7 @@
+# Private source workbooks (contain MTurk WorkerIDs and expert names)
+PartA*.xlsx
+
+# Excel lock files
+~$*
+
+.DS_Store

@@ -1,0 +1,26 @@
+characteristic,group,column,n_workers
+Sex,Female,sex_female,149
+Sex,Male,sex_male,120
+Sex,Other,sex_other,1
+Age (years),18-24,age_18_24,16
+Age (years),25-34,age_25_34,74
+Age (years),35-44,age_35_44,65
+Age (years),45-54,age_45_54,27
+Age (years),55-64,age_55_64,59
+Age (years),65-74,age_65_74,27
+Age (years),75+,age_75_plus,2
+Education,High school or less,edu_high_school_or_less,90
+Education,Bachelor's or associate's,edu_bachelors_or_associates,90
+Education,Master's or higher,edu_masters_or_higher,90
+Race or ethnicity,White,race_white,135
+Race or ethnicity,Asian,race_asian,57
+Race or ethnicity,Black,race_black,46
+Race or ethnicity,Hispanic,race_hispanic,15
+Race or ethnicity,Other,race_other,17
+Native language,English or bilingual,lang_english_or_bilingual,266
+Native language,Non-English,lang_non_english,4
+Health literacy score,1 - Never,sils_1,133
+Health literacy score,2 - Rarely,sils_2,95
+Health literacy score,3 - Sometimes,sils_3,30
+Health literacy score,4 - Often,sils_4,10
+Health literacy score,5 - Always,sils_5,2
